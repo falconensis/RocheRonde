@@ -7,6 +7,4 @@ print('''
 - cilantro (a lot of it)
 
 '''
-
-#this is a single line comment
 )
